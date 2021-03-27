@@ -1,13 +1,11 @@
 # Hi, my name is **Nikita Borovkov**
 ## I'm a beginner *Front-end developer* and this is my Portfolio Github profile
 
-[![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-%23333333?style=for-the-badge&logo=TELEGRAM)](https://t.me/nick_borovkov)
-[![INSTAGRAM](https://img.shields.io/badge/-INSTAGRAM-%23333333?style=for-the-badge&logo=INSTAGRAM)](https://www.instagram.com/nick.borovkov)
-[![VK](https://img.shields.io/badge/-VK-%23333333?style=for-the-badge&logo=VK)](https://vk.com/nick_borovkov)
-
-
 ## Info:
 - *24 y.o.*
+- [![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-%23333333?style=for-the-badge&logo=TELEGRAM)](https://t.me/nick_borovkov)
+[![INSTAGRAM](https://img.shields.io/badge/-INSTAGRAM-%23333333?style=for-the-badge&logo=INSTAGRAM)](https://www.instagram.com/nick.borovkov)
+[![VK](https://img.shields.io/badge/-VK-%23333333?style=for-the-badge&logo=VK)](https://vk.com/nick_borovkov)
 ### Location:
 - *Moscow*
 ### Education
