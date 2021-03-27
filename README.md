@@ -1,6 +1,8 @@
 # Hi, my name is **Nikita Borovkov**
 ## I'm a beginner *Front-end developer* and this is my Portfolio Github profile
 
+[tg](@nick_borovkov)
+
 
 ## Info:
 ### Location:
