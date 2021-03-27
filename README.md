@@ -30,6 +30,6 @@
 
 ### Hobbies:
 - *Coding*
-- *Playing guitar*
+- *Guitar and Bass Guitar playing*
 - *Scuba diving (OWD, AOWD, Deep Diver, TDI Nitrox Diver)*
 - *Mountain Skiing*
