@@ -7,7 +7,7 @@
 [![INSTAGRAM](https://img.shields.io/badge/-INSTAGRAM-%23333333?style=for-the-badge&logo=INSTAGRAM)](https://www.instagram.com/nick.borovkov)
 [![VK](https://img.shields.io/badge/-VK-%23333333?style=for-the-badge&logo=VK)](https://vk.com/nick_borovkov)
 ### Location:
-- *Moscow*
+- *Moscow, Russia*
 ### Education
 - *MTUCI (Moscow Technical University of Communication and Informatics) - Bachelor*
 ### Languages
