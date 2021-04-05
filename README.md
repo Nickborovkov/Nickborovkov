@@ -25,7 +25,7 @@
 
 ![GIT](https://img.shields.io/badge/-GIT-%23333333?style=for-the-badge&logo=GIT)  
 
-![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-%23333333?style=for-the-badge&logo=JAVASCRIPT) ![REACT](https://img.shields.io/badge/-REACT-%23333333?style=for-the-badge&logo=REACT)  
+![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-%23333333?style=for-the-badge&logo=JAVASCRIPT) ![REACT](https://img.shields.io/badge/-REACT-%23333333?style=for-the-badge&logo=REACT)  ![REDUX](https://img.shields.io/badge/-REDUX-%23333333?style=for-the-badge&logo=REDUX)
 
 
 ### Hobbies:
