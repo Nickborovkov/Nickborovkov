@@ -26,9 +26,9 @@
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-%23333333?style=for-the-badge&logo=JAVASCRIPT) ![REACT](https://img.shields.io/badge/-REACT-%23333333?style=for-the-badge&logo=REACT)  ![REDUX](https://img.shields.io/badge/-REDUX-%23333333?style=for-the-badge&logo=REDUX)  ![REACT-REDUX](https://img.shields.io/badge/-REACT_REDUX-%23333333?style=for-the-badge&logo=REACT-REDUX)  ![REDUX-THUNK](https://img.shields.io/badge/-REDUX_THUNK-%23333333?style=for-the-badge&logo=REDUX-THUNK)
 
 ## Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nickborovkov&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nickborovkov&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nickborovkov&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nickborovkov&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Hobbies:
 - *Coding*
