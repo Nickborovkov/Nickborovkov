@@ -5,31 +5,90 @@
 - *24 y.o.*
 - [![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-%23333333?style=for-the-badge&logo=TELEGRAM)](https://t.me/nick_borovkov)
 ### Location:
-- *Moscow, Russia*
+- Moscow, Russia
 ### Education
-- *MTUCI (Moscow Technical University of Communication and Informatics) - Bachelor*
+- MTUCI (Moscow Technical University of Communication and Informatics) - Bachelor
 ### Languages
-- *Russian - Native*
-- *English - B2 (Upper Intermediate) (FCE)*
+- Russian - Native
+- English - B2 (Upper Intermediate) (FCE)
 
 ## Tools:
 
-<img align="left" alt="webstorm" width="26px" src="https://images.g2crowd.com/uploads/product/hd_favicon/1487565952/webstorm.svg" />
-<img align="left" alt="vscode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/180px-Visual_Studio_Code_1.35_icon.svg.png" />
-<img align="left" alt="html" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="css" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="less" width="26px" src="https://sonarlearning.co.uk/images/icons/courseIcons/less-css-logo.png" />
-<img align="left" alt="bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-<img align="left" alt="photoshop" width="26px" src="https://sun1-56.userapi.com/s/v1/ig2/dma2HZlG-ymV1zi6YR_s_zjBJSYxUTR7PrdwX2_AHtKc-M2kiQhYdKclOxHN1mVIuMKEFV6iWG5xgbLNIOSvKi0l.jpg?size=200x0&quality=96&crop=0,0,936,936&ava=1" />
-<img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
-<img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="npm" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
-<img align="left" alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" />
-<img align="left" alt="rest" width="26px" src="https://assets-global.website-files.com/5ea81fd6beb8396b526534e0/5ec2c786bc92603db4eb0d59_Rest_API_Runecast.png" />
-<br/>
+### IDE:
+![WEBSTORM](https://img.shields.io/badge/-WEBSTORM-%23333333?style=for-the-badge&logo=WEBSTORM) 
+![VS-CODE](https://img.shields.io/badge/-VSCODE-%23333333?style=for-the-badge&logo=VSCODE)
+
+### Layout:
+![HTML5](https://img.shields.io/badge/-HTML5-%23333333?style=for-the-badge&logo=HTML5) 
+![PUG](https://img.shields.io/badge/-PUG-%23333333?style=for-the-badge&logo=PUG) 
+![CSS3](https://img.shields.io/badge/-CSS3-%23333333?style=for-the-badge&logo=CSS3)
+![SASS](https://img.shields.io/badge/-SASS-%23333333?style=for-the-badge&logo=SASS)
+![LESS](https://img.shields.io/badge/-LESS-%23333333?style=for-the-badge&logo=LESS)
+![PHOTOSHOP](https://img.shields.io/badge/-PHOTOSHOP-%23333333?style=for-the-badge&logo=PHOTOSHOP)
+![FIGMA](https://img.shields.io/badge/-FIGMA-%23333333?style=for-the-badge&logo=FIGMA)
+![BEM](https://img.shields.io/badge/-BEM-%23333333?style=for-the-badge&logo=BEM)
+![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-%23333333?style=for-the-badge&logo=BOOTSTRAP)
+<!--![POST_CSS](https://img.shields.io/badge/-POST_CSS-%23333333?style=for-the-badge&logo=POST_CSS)-->
+<!--![STYLUS](https://img.shields.io/badge/-STYLUS-%23333333?style=for-the-badge&logo=STYLUS)-->
+<!--![MATERIAL_UI](https://img.shields.io/badge/-MATERIAL_UI-%23333333?style=for-the-badge&logo=MATERIAL_UI)-->
+<!--![ANT_DESIGN](https://img.shields.io/badge/-ANT_DESIGN-%23333333?style=for-the-badge&logo=ANT_DESIGN)-->
+<!--![VUETIFY](https://img.shields.io/badge/-VUETIFY-%23333333?style=for-the-badge&logo=VUETIFY)-->
+<!--![QUASAR](https://img.shields.io/badge/-QUASAR-%23333333?style=for-the-badge&logo=QUASAR)-->
+
+### Code:
+![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-%23333333?style=for-the-badge&logo=JAVASCRIPT)
+![REACT](https://img.shields.io/badge/-REACT-%23333333?style=for-the-badge&logo=REACT)
+![REDUX](https://img.shields.io/badge/-REDUX-%23333333?style=for-the-badge&logo=REDUX)
+![VUE](https://img.shields.io/badge/-VUE-%23333333?style=for-the-badge&logo=VUE)
+<!--![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-%23333333?style=for-the-badge&logo=TYPESCRIPT)-->
+<!--![REDUX_TOOLKIT](https://img.shields.io/badge/-REDUX_TOOLKIT-%23333333?style=for-the-badge&logo=REDUX_TOOLKIT)-->
+<!--![APOLLO_GRAPHQL](https://img.shields.io/badge/-APOLLO_GRAPHQL-%23333333?style=for-the-badge&logo=APOLLO_GRAPHQL)-->
+<!--![VUEX](https://img.shields.io/badge/-VUEX-%23333333?style=for-the-badge&logo=VUEX)-->
+
+### Validation: 
+![REDUXFORM](https://img.shields.io/badge/-REDUX_FORM-%23333333?style=for-the-badge&logo=REDUXFORM)
+![FORMIK](https://img.shields.io/badge/-FORMIK-%23333333?style=for-the-badge&logo=FORMIK)
+![YUP](https://img.shields.io/badge/-YUP-%23333333?style=for-the-badge&logo=YUP)
+<!--![VUELIDATE](https://img.shields.io/badge/-VUELIDATE-%23333333?style=for-the-badge&logo=VUELIDATE)-->
+
+### Async:
+![REDUX_THUNK](https://img.shields.io/badge/-REDUX_THUNK-%23333333?style=for-the-badge&logo=REDUX_THUNK)
+![AXIOS](https://img.shields.io/badge/-AXIOS-%23333333?style=for-the-badge&logo=AXIOS)
+<!--![REDUX_SAGA](https://img.shields.io/badge/-REDUX_SAGA-%23333333?style=for-the-badge&logo=REDUX_SAGA)-->
+<!--![WEBSOCKET](https://img.shields.io/badge/-WEBSOCKET-%23333333?style=for-the-badge&logo=WEBSOCKET)-->
+<!--![VUE_RESOURCE](https://img.shields.io/badge/-VUE_RESOURCE-%23333333?style=for-the-badge&logo=VUE_RESOURCE)-->
+
+### Routing:
+![REACT_ROUTER](https://img.shields.io/badge/-REACT_ROUTER-%23333333?style=for-the-badge&logo=REACT_ROUTER)
+<!--![VUE_ROUTER](https://img.shields.io/badge/-VUE_ROUTER-%23333333?style=for-the-badge&logo=VUE_ROUTER)-->
+
+### Other:
+![GIT](https://img.shields.io/badge/-GIT-%23333333?style=for-the-badge&logo=GIT)
+![GITHUB](https://img.shields.io/badge/-GITHUB-%23333333?style=for-the-badge&logo=GITHUB)
+![NPM](https://img.shields.io/badge/-NPM-%23333333?style=for-the-badge&logo=NPM)
+![AJAX](https://img.shields.io/badge/-AJAX-%23333333?style=for-the-badge&logo=AJAX)
+![REST_API](https://img.shields.io/badge/-REST_API-%23333333?style=for-the-badge&logo=REST_API)
+![HTML5_API](https://img.shields.io/badge/-HTML5_API-%23333333?style=for-the-badge&logo=HTML5_API)
+![JSON](https://img.shields.io/badge/-JSON-%23333333?style=for-the-badge&logo=JSON)
+
+<!--### SSR:-->
+<!--![NEXT](https://img.shields.io/badge/-NEXT-%23333333?style=for-the-badge&logo=NEXT)-->
+<!--![NUXT](https://img.shields.io/badge/-NUXT-%23333333?style=for-the-badge&logo=NUXT)-->
+
+<!--### Testing:-->
+<!--![JEST](https://img.shields.io/badge/-JEST-%23333333?style=for-the-badge&logo=JEST)-->
+<!--![REACT_TESTING_LIBRARY](https://img.shields.io/badge/-REACT_TESTING_LIBRARY-%23333333?style=for-the-badge&logo=REACT_TESTING_LIBRARY)-->
+<!--![VUE_TESTING_LIBRARY](https://img.shields.io/badge/-VUE_TESTING_LIBRARY-%23333333?style=for-the-badge&logo=VUE_TESTING_LIBRARY)-->
+<!--![ENZYME](https://img.shields.io/badge/-ENZYME-%23333333?style=for-the-badge&logo=ENZYME)-->
+
+<!--### Modules bundle:-->
+<!--![WEBPACK](https://img.shields.io/badge/-WEBPACK-%23333333?style=for-the-badge&logo=WEBPACK)-->
+<!--![GULP](https://img.shields.io/badge/-GULP-%23333333?style=for-the-badge&logo=GULP)-->
+
+<!--### For fun:-->
+<!--![WORDPRESS](https://img.shields.io/badge/-WORDPRESS-%23333333?style=for-the-badge&logo=WORDPRESS)-->
+<!--![JOOMLA](https://img.shields.io/badge/-JOOMLA-%23333333?style=for-the-badge&logo=JOOMLA)-->
+
 
 ## Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nickborovkov&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
@@ -37,7 +96,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nickborovkov&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Hobbies:
-- *Coding*
-- *Guitar and Bass Guitar playing*
-- *Scuba diving (OWD, AOWD, Deep Diver, TDI Nitrox Diver)*
-- *Mountain Skiing*
+- Coding
+- Guitar and Bass Guitar playing
+- Scuba diving (OWD, AOWD, Deep Diver, TDI Nitrox Diver)
+- Mountain Skiing
