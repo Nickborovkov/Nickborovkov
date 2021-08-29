@@ -51,7 +51,7 @@
 ![REDUXFORM](https://img.shields.io/badge/-REDUX_FORM-%23333333?style=for-the-badge&logo=REDUXFORM)
 ![FORMIK](https://img.shields.io/badge/-FORMIK-%23333333?style=for-the-badge&logo=FORMIK)
 ![YUP](https://img.shields.io/badge/-YUP-%23333333?style=for-the-badge&logo=YUP)
-<!--![VUELIDATE](https://img.shields.io/badge/-VUELIDATE-%23333333?style=for-the-badge&logo=VUELIDATE)-->
+![VUELIDATE](https://img.shields.io/badge/-VUELIDATE-%23333333?style=for-the-badge&logo=VUELIDATE)
 
 ### Async:
 ![REDUX_THUNK](https://img.shields.io/badge/-REDUX_THUNK-%23333333?style=for-the-badge&logo=REDUX_THUNK)
@@ -62,7 +62,7 @@
 
 ### Routing:
 ![REACT_ROUTER](https://img.shields.io/badge/-REACT_ROUTER-%23333333?style=for-the-badge&logo=REACT_ROUTER)
-<!--![VUE_ROUTER](https://img.shields.io/badge/-VUE_ROUTER-%23333333?style=for-the-badge&logo=VUE_ROUTER)-->
+![VUE_ROUTER](https://img.shields.io/badge/-VUE_ROUTER-%23333333?style=for-the-badge&logo=VUE_ROUTER)
 
 ### Other:
 ![GIT](https://img.shields.io/badge/-GIT-%23333333?style=for-the-badge&logo=GIT)
