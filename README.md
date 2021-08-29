@@ -38,12 +38,14 @@
 ### Code:
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-%23333333?style=for-the-badge&logo=JAVASCRIPT)
 ![REACT](https://img.shields.io/badge/-REACT-%23333333?style=for-the-badge&logo=REACT)
-![REDUX](https://img.shields.io/badge/-REDUX-%23333333?style=for-the-badge&logo=REDUX)
 ![VUE](https://img.shields.io/badge/-VUE-%23333333?style=for-the-badge&logo=VUE)
 <!--![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-%23333333?style=for-the-badge&logo=TYPESCRIPT)-->
+
+### State management:
+![REDUX](https://img.shields.io/badge/-REDUX-%23333333?style=for-the-badge&logo=REDUX)
+<!--![VUEX](https://img.shields.io/badge/-VUEX-%23333333?style=for-the-badge&logo=VUEX)-->
 <!--![REDUX_TOOLKIT](https://img.shields.io/badge/-REDUX_TOOLKIT-%23333333?style=for-the-badge&logo=REDUX_TOOLKIT)-->
 <!--![APOLLO_GRAPHQL](https://img.shields.io/badge/-APOLLO_GRAPHQL-%23333333?style=for-the-badge&logo=APOLLO_GRAPHQL)-->
-<!--![VUEX](https://img.shields.io/badge/-VUEX-%23333333?style=for-the-badge&logo=VUEX)-->
 
 ### Validation: 
 ![REDUXFORM](https://img.shields.io/badge/-REDUX_FORM-%23333333?style=for-the-badge&logo=REDUXFORM)
