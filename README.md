@@ -43,7 +43,7 @@
 
 ### State management:
 ![REDUX](https://img.shields.io/badge/-REDUX-%23333333?style=for-the-badge&logo=REDUX)
-<!--![VUEX](https://img.shields.io/badge/-VUEX-%23333333?style=for-the-badge&logo=VUEX)-->
+![VUEX](https://img.shields.io/badge/-VUEX-%23333333?style=for-the-badge&logo=VUEX)
 <!--![REDUX_TOOLKIT](https://img.shields.io/badge/-REDUX_TOOLKIT-%23333333?style=for-the-badge&logo=REDUX_TOOLKIT)-->
 <!--![APOLLO_GRAPHQL](https://img.shields.io/badge/-APOLLO_GRAPHQL-%23333333?style=for-the-badge&logo=APOLLO_GRAPHQL)-->
 
@@ -71,6 +71,7 @@
 ![AJAX](https://img.shields.io/badge/-AJAX-%23333333?style=for-the-badge&logo=AJAX)
 ![REST_API](https://img.shields.io/badge/-REST_API-%23333333?style=for-the-badge&logo=REST_API)
 ![HTML5_API](https://img.shields.io/badge/-HTML5_API-%23333333?style=for-the-badge&logo=HTML5_API)
+![JSON_SERVER](https://img.shields.io/badge/-JSON_SERVER-%23333333?style=for-the-badge&logo=JSON_SERVER)
 ![JSON](https://img.shields.io/badge/-JSON-%23333333?style=for-the-badge&logo=JSON)
 
 <!--### SSR:-->
