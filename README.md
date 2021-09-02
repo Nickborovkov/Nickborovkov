@@ -28,11 +28,11 @@
 ![FIGMA](https://img.shields.io/badge/-FIGMA-%23333333?style=for-the-badge&logo=FIGMA)
 ![BEM](https://img.shields.io/badge/-BEM-%23333333?style=for-the-badge&logo=BEM)
 ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-%23333333?style=for-the-badge&logo=BOOTSTRAP)
+![VUETIFY](https://img.shields.io/badge/-VUETIFY-%23333333?style=for-the-badge&logo=VUETIFY)
 <!--![POST_CSS](https://img.shields.io/badge/-POST_CSS-%23333333?style=for-the-badge&logo=POST_CSS)-->
 <!--![STYLUS](https://img.shields.io/badge/-STYLUS-%23333333?style=for-the-badge&logo=STYLUS)-->
 <!--![MATERIAL_UI](https://img.shields.io/badge/-MATERIAL_UI-%23333333?style=for-the-badge&logo=MATERIAL_UI)-->
 <!--![ANT_DESIGN](https://img.shields.io/badge/-ANT_DESIGN-%23333333?style=for-the-badge&logo=ANT_DESIGN)-->
-<!--![VUETIFY](https://img.shields.io/badge/-VUETIFY-%23333333?style=for-the-badge&logo=VUETIFY)-->
 <!--![QUASAR](https://img.shields.io/badge/-QUASAR-%23333333?style=for-the-badge&logo=QUASAR)-->
 
 ### Code:
