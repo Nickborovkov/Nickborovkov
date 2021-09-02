@@ -16,7 +16,7 @@
 
 ### IDE:
 ![WEBSTORM](https://img.shields.io/badge/-WEBSTORM-%23333333?style=for-the-badge&logo=WEBSTORM) 
-![VS-CODE](https://img.shields.io/badge/-VSCODE-%23333333?style=for-the-badge&logo=VSCODE)
+![VSCODE](https://img.shields.io/badge/-VSCODE-%23333333?style=for-the-badge&logo=VISUALSTUDIOCODE)
 
 ### Layout:
 ![HTML5](https://img.shields.io/badge/-HTML5-%23333333?style=for-the-badge&logo=HTML5) 
@@ -24,7 +24,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%23333333?style=for-the-badge&logo=CSS3)
 ![SASS](https://img.shields.io/badge/-SASS-%23333333?style=for-the-badge&logo=SASS)
 ![LESS](https://img.shields.io/badge/-LESS-%23333333?style=for-the-badge&logo=LESS)
-![PHOTOSHOP](https://img.shields.io/badge/-PHOTOSHOP-%23333333?style=for-the-badge&logo=PHOTOSHOP)
+![PHOTOSHOP](https://img.shields.io/badge/-PHOTOSHOP-%23333333?style=for-the-badge&logo=ADOBEPHOTOSHOP)
 ![FIGMA](https://img.shields.io/badge/-FIGMA-%23333333?style=for-the-badge&logo=FIGMA)
 ![BEM](https://img.shields.io/badge/-BEM-%23333333?style=for-the-badge&logo=BEM)
 ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-%23333333?style=for-the-badge&logo=BOOTSTRAP)
@@ -38,12 +38,12 @@
 ### Code:
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-%23333333?style=for-the-badge&logo=JAVASCRIPT)
 ![REACT](https://img.shields.io/badge/-REACT-%23333333?style=for-the-badge&logo=REACT)
-![VUE](https://img.shields.io/badge/-VUE-%23333333?style=for-the-badge&logo=VUE)
+![VUE](https://img.shields.io/badge/-VUE-%23333333?style=for-the-badge&logo=vue.js)
 <!--![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-%23333333?style=for-the-badge&logo=TYPESCRIPT)-->
 
 ### State management:
 ![REDUX](https://img.shields.io/badge/-REDUX-%23333333?style=for-the-badge&logo=REDUX)
-![VUEX](https://img.shields.io/badge/-VUEX-%23333333?style=for-the-badge&logo=VUEX)
+![VUEX](https://img.shields.io/badge/-VUEX-%23333333?style=for-the-badge&logo=vue.js)
 <!--![REDUX_TOOLKIT](https://img.shields.io/badge/-REDUX_TOOLKIT-%23333333?style=for-the-badge&logo=REDUX_TOOLKIT)-->
 <!--![APOLLO_GRAPHQL](https://img.shields.io/badge/-APOLLO_GRAPHQL-%23333333?style=for-the-badge&logo=APOLLO_GRAPHQL)-->
 
@@ -56,9 +56,9 @@
 ### Async:
 ![REDUX_THUNK](https://img.shields.io/badge/-REDUX_THUNK-%23333333?style=for-the-badge&logo=REDUX_THUNK)
 ![AXIOS](https://img.shields.io/badge/-AXIOS-%23333333?style=for-the-badge&logo=AXIOS)
+![VUE_RESOURCE](https://img.shields.io/badge/-VUE_RESOURCE-%23333333?style=for-the-badge&logo=VUE_RESOURCE)
 <!--![REDUX_SAGA](https://img.shields.io/badge/-REDUX_SAGA-%23333333?style=for-the-badge&logo=REDUX_SAGA)-->
 <!--![WEBSOCKET](https://img.shields.io/badge/-WEBSOCKET-%23333333?style=for-the-badge&logo=WEBSOCKET)-->
-<!--![VUE_RESOURCE](https://img.shields.io/badge/-VUE_RESOURCE-%23333333?style=for-the-badge&logo=VUE_RESOURCE)-->
 
 ### Routing:
 ![REACT_ROUTER](https://img.shields.io/badge/-REACT_ROUTER-%23333333?style=for-the-badge&logo=REACT_ROUTER)
