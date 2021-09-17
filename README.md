@@ -25,6 +25,7 @@
 ![SASS](https://img.shields.io/badge/-SASS-%23333333?style=for-the-badge&logo=SASS)
 ![LESS](https://img.shields.io/badge/-LESS-%23333333?style=for-the-badge&logo=LESS)
 ![PHOTOSHOP](https://img.shields.io/badge/-PHOTOSHOP-%23333333?style=for-the-badge&logo=ADOBEPHOTOSHOP)
+
 ![FIGMA](https://img.shields.io/badge/-FIGMA-%23333333?style=for-the-badge&logo=FIGMA)
 ![BEM](https://img.shields.io/badge/-BEM-%23333333?style=for-the-badge&logo=BEM)
 ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-%23333333?style=for-the-badge&logo=BOOTSTRAP)
@@ -53,8 +54,10 @@
 ![YUP](https://img.shields.io/badge/-YUP-%23333333?style=for-the-badge&logo=YUP)
 ![VUELIDATE](https://img.shields.io/badge/-VUELIDATE-%23333333?style=for-the-badge&logo=VUELIDATE)
 
-### Async:
+### Middleware:
 ![REDUX_THUNK](https://img.shields.io/badge/-REDUX_THUNK-%23333333?style=for-the-badge&logo=REDUX_THUNK)
+
+### Requests:
 ![AXIOS](https://img.shields.io/badge/-AXIOS-%23333333?style=for-the-badge&logo=AXIOS)
 ![VUE_RESOURCE](https://img.shields.io/badge/-VUE_RESOURCE-%23333333?style=for-the-badge&logo=VUE_RESOURCE)
 <!--![REDUX_SAGA](https://img.shields.io/badge/-REDUX_SAGA-%23333333?style=for-the-badge&logo=REDUX_SAGA)-->
