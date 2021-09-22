@@ -6,9 +6,9 @@
 - [![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-%23333333?style=for-the-badge&logo=TELEGRAM)](https://t.me/nick_borovkov)
 ### Location:
 - Moscow, Russia
-### Education
+### Education:
 - MTUCI (Moscow Technical University of Communication and Informatics) - Bachelor
-### Languages
+### Languages:
 - Russian - Native
 - English - B2 (Upper Intermediate) (FCE)
 
