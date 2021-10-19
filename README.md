@@ -24,14 +24,16 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%23333333?style=for-the-badge&logo=CSS3)
 ![SASS](https://img.shields.io/badge/-SASS-%23333333?style=for-the-badge&logo=SASS)
 ![LESS](https://img.shields.io/badge/-LESS-%23333333?style=for-the-badge&logo=LESS)
-![PHOTOSHOP](https://img.shields.io/badge/-PHOTOSHOP-%23333333?style=for-the-badge&logo=ADOBEPHOTOSHOP)
 
+![PHOTOSHOP](https://img.shields.io/badge/-PHOTOSHOP-%23333333?style=for-the-badge&logo=ADOBEPHOTOSHOP)
 ![FIGMA](https://img.shields.io/badge/-FIGMA-%23333333?style=for-the-badge&logo=FIGMA)
 ![BEM](https://img.shields.io/badge/-BEM-%23333333?style=for-the-badge&logo=BEM)
 ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-%23333333?style=for-the-badge&logo=BOOTSTRAP)
+
 ![MATERIAL_UI](https://img.shields.io/badge/-MATERIAL_UI-%23333333?style=for-the-badge&logo=materialui)
 ![ANT_DESIGN](https://img.shields.io/badge/-ANT_DESIGN-%23333333?style=for-the-badge&logo=antdesign)
 ![VUETIFY](https://img.shields.io/badge/-VUETIFY-%23333333?style=for-the-badge&logo=VUETIFY)
+![QUASAR](https://img.shields.io/badge/-QUASAR-%23333333?style=for-the-badge&logo=QUASAR)
 <!--![POST_CSS](https://img.shields.io/badge/-POST_CSS-%23333333?style=for-the-badge&logo=POST_CSS)-->
 <!--![STYLUS](https://img.shields.io/badge/-STYLUS-%23333333?style=for-the-badge&logo=STYLUS)-->
 
@@ -74,6 +76,7 @@
 ![GITHUB](https://img.shields.io/badge/-GITHUB-%23333333?style=for-the-badge&logo=GITHUB)
 ![NPM](https://img.shields.io/badge/-NPM-%23333333?style=for-the-badge&logo=NPM)
 ![AJAX](https://img.shields.io/badge/-AJAX-%23333333?style=for-the-badge&logo=AJAX)
+
 ![REST_API](https://img.shields.io/badge/-REST_API-%23333333?style=for-the-badge&logo=REST_API)
 ![HTML5_API](https://img.shields.io/badge/-HTML5_API-%23333333?style=for-the-badge&logo=HTML5_API)
 ![JSON_SERVER](https://img.shields.io/badge/-JSON_SERVER-%23333333?style=for-the-badge&logo=JSON_SERVER)
