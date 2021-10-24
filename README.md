@@ -33,7 +33,7 @@
 ![MATERIAL_UI](https://img.shields.io/badge/-MATERIAL_UI-%23333333?style=for-the-badge&logo=materialui)
 ![ANT_DESIGN](https://img.shields.io/badge/-ANT_DESIGN-%23333333?style=for-the-badge&logo=antdesign)
 ![VUETIFY](https://img.shields.io/badge/-VUETIFY-%23333333?style=for-the-badge&logo=VUETIFY)
-![QUASAR](https://img.shields.io/badge/-QUASAR-%23333333?style=for-the-badge&logo=QUASAR)
+![ELEMENT_UI](https://img.shields.io/badge/-ELEMENT_UI-%23333333?style=for-the-badge&logo=ELEMENT_UI)
 <!--![POST_CSS](https://img.shields.io/badge/-POST_CSS-%23333333?style=for-the-badge&logo=POST_CSS)-->
 <!--![STYLUS](https://img.shields.io/badge/-STYLUS-%23333333?style=for-the-badge&logo=STYLUS)-->
 
