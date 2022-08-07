@@ -4,8 +4,7 @@
 ## Info:
 - *25 y.o.*
 - [![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-%23333333?style=for-the-badge&logo=TELEGRAM)](https://t.me/nick_borovkov)
-### Location:
-- Moscow, Russia
+
 ### Education:
 - MTUCI (Moscow Technical University of Communication and Informatics) - Bachelor
 ### Languages:
