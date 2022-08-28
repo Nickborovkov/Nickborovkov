@@ -1,5 +1,5 @@
-# Hi, my name is **Nikita Borovkov**
-### I'm a Front-end developer and this is my Portfolio Github profile
+# Hi, my name is **Nick**
+### Front-end developer
 
 ## Info:
 - *25 y.o.*
